@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://badsi2177.github.io/sitemap.xml
